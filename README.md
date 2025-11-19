@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Naim 👋</h1>
-<h3 align="center">Full-Stack Web Developer (MERN / Next.js)</h3>
+<h1>Hi, I'm Naim 👋</h1>
+<h3>Full-Stack Web Developer (MERN / Next.js)</h3>
 
 ---
 
