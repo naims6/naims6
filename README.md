@@ -16,7 +16,7 @@ I’m a passionate Full-Stack Web Developer who loves building modern, fast, and
 ## 🔥 What I'm Doing
 - 🔭 I’m currently working on a **Book Library Project**
 - 🌱 I’m exploring **Next.js, Authentication, & API Security**
-- 🧪 Learning **Bug Bounty & Cybersecurity basics**
+- 🧪 🔐 Learning API security basics **(rate limit, validation)**
 - 💼 Preparing to become a **Full-Stack Developer**
 
 ---
