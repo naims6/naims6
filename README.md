@@ -1,8 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://via.placeholder.com/1200x300?text=Welcome+to+My+GitHub+Profile" alt="Banner" />
-</p>
-
 <h1 align="center">Hi, I'm Naim 👋</h1>
 <h3 align="center">Full-Stack Web Developer (MERN / Next.js)</h3>
 
@@ -47,5 +42,4 @@ I’m a passionate Full-Stack Web Developer who loves building modern, fast, and
   <a href="mailto:naim.sorker06@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
 
----
 
