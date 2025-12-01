@@ -1,15 +1,11 @@
 ## 💫 About Me:
-I’m a MERN Stack Developer who enjoys building real-world, impactful web applications. I work mainly with React on the frontend and Node.js/MongoDB on the backend, focusing on clean code, good structure, and smooth user experiences.
+I’m a MERN Stack Developer focused on building clean, scalable, and user-friendly web applications. I work with **React**, **Node.js**, **Express.js**, **MongoDB**, and **Next.js** to turn ideas into real, functional products.
+- Expertise: MERN Stack, Next.js <br>
+- Projects: 5+ full-stack apps, including e-commerce platforms and dashboards.
 
-I’m constantly improving my skills through hands-on projects, learning new tools, and exploring best practices in modern web development. I love solving problems, understanding how things work under the hood, and turning ideas into usable products.
+I aim to create fast, reliable, and impactful applications.  <br>
+Email: naim.sorker06@gmail.com
 
-• Expertise: MERN Stack (MongoDB, Express.js, React.js, Node.js), Next.js
-• Career Achievements: Completed 10+ Full Stack projects, including e-commerce platforms, dashboards, and full-stack apps.
-
-My goal is simple:
-build applications that are fast, user-friendly, and meaningful.
-
----
 
 ## 💻 Tech Stack:
 
