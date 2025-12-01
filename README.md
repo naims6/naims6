@@ -1,22 +1,17 @@
-<h1>Hi, I'm Naim 👋</h1>
-<h3>Full-Stack Web Developer (MERN / Next.js)</h3>
+## 💫 About Me:
+I’m a MERN Stack Developer who enjoys building real-world, impactful web applications. I work mainly with React on the frontend and Node.js/MongoDB on the backend, focusing on clean code, good structure, and smooth user experiences.
+
+I’m constantly improving my skills through hands-on projects, learning new tools, and exploring best practices in modern web development. I love solving problems, understanding how things work under the hood, and turning ideas into usable products.
+
+• Expertise: MERN Stack (MongoDB, Express.js, React.js, Node.js), Next.js
+• Career Achievements: Completed 10+ Full Stack projects, including e-commerce platforms, dashboards, and full-stack apps.
+
+My goal is simple:
+build applications that are fast, user-friendly, and meaningful.
 
 ---
 
-## 🚀 About Me
-I’m a passionate Full-Stack Web Developer who loves building modern, fast, and user-friendly web applications. Currently exploring advanced frontend & backend technologies while working on real-world projects to sharpen my skills.
-
----
-
-## 🔥 What I'm Doing
-- 🔭 I’m currently working on a **Book Library Project**
-- 🌱 I’m exploring **Next.js, Authentication, & API Security**
-- 🧪 🔐 Learning API security basics **(rate limit, validation)**
-- 💼 Preparing to become a **Full-Stack Developer**
-
----
-
-## 🛠 Skills & Technologies
+## 💻 Tech Stack:
 
 ### **Frontend**
 <p>
