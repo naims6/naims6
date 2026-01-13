@@ -25,3 +25,5 @@ Email: naim.sorker06@gmail.com  Website: https://naims-dev.vercel.app Whatsapp: 
 
 ## 🤝 Let's Connect:
 <a href="https://www.linkedin.com/in/naims6" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+<a href="https://www.facebook.com/naim.sorker6" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>
+<a href="https://naims-dev.vercel.app" target="_blank"><img alt="Website" src="https://img.shields.io/badge/website-%23000000.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
