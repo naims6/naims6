@@ -3,7 +3,7 @@ I’m a Full Stack Developer (MERN), with a strong focus on building clean, scal
 
 I enjoy solving problems, learning new technologies, and continuously improving my skills as a developer. My goal is to create fast, maintainable, and impactful applications that provide a great user experience and deliver real value.
 
-Email: naim.sorker06@gmail.com  Website: https://naims-dev.vercel.app Whatsapp: +088 1908390036
+Email: naim.sorker06@gmail.com  Website: https://naims-dev.vercel.app Whatsapp: +88 01908390036
 
 
 ## 💻 Tech Stack:
